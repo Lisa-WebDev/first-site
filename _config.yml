@@ -18,7 +18,6 @@ defaults:
     values:
       layout: "default"
 
-url: "https://lisa-webdev.github.io/first-site"
 plugins:
   - jekyll-feed
   - jekyll-sitemap
